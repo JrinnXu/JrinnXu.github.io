@@ -21,7 +21,7 @@ var ecnuElec = function (_React$Component) {
             return React.createElement(
                 "p",
                 null,
-                "Hello world"
+                " Hello world"
             );
         }
     }]);
